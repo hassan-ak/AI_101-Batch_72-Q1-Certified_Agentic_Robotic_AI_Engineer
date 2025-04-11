@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 # Secret Folders
-google-classroom/
-whatsapp/
+class-info
