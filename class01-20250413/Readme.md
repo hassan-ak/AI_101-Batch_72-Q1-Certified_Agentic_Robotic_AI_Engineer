@@ -3,6 +3,30 @@
 1. https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing
 2. https://docs.google.com/presentation/d/1VNFGsCYMDT1VTe8W1wxFbmAwYsJ1I0Y-6CnTvuCEn98/edit
 
+**Table of Content**
+- [Class 01 - 2024/04/13 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-01---20240413---batch-72---q1-certified-agentic-robotic-ai-engineer)
+  - [Three waves of AI](#three-waves-of-ai)
+    - [Predictive AI](#predictive-ai)
+      - [🔍 How it works:](#-how-it-works)
+      - [📦 Real-World Examples:](#-real-world-examples)
+    - [Generative AI](#generative-ai)
+      - [🛠️ What it can generate:](#️-what-it-can-generate)
+      - [⚙️ How it works (simplified):](#️-how-it-works-simplified)
+      - [🔥 Popular Generative AI tools:](#-popular-generative-ai-tools)
+    - [Agentic AI](#agentic-ai)
+      - [⚙️ Core features of Agentic AI:](#️-core-features-of-agentic-ai)
+      - [🤖 Example:](#-example)
+      - [🛠 Tools for building Agentic AI:](#-tools-for-building-agentic-ai)
+      - [🚀 Why it matters:](#-why-it-matters)
+  - [✅ **How AI Agents Work**](#-how-ai-agents-work)
+  - [🧠 **Types of AI Agents**](#-types-of-ai-agents)
+  - [🏗️ **AI Agent System Architecture**](#️-ai-agent-system-architecture)
+  - [**ANI, AGI, and ASI**:](#ani-agi-and-asi)
+    - [🤖 **ANI – Artificial Narrow Intelligence**](#-ani--artificial-narrow-intelligence)
+    - [🧠 **AGI – Artificial General Intelligence**](#-agi--artificial-general-intelligence)
+    - [🚀 **ASI – Artificial Super Intelligence**](#-asi--artificial-super-intelligence)
+
+
 ## Three waves of AI
 
 **AI (Artificial Intelligence)** is the field of computer science that focuses on **creating machines or software that can perform tasks that typically require human intelligence.**
