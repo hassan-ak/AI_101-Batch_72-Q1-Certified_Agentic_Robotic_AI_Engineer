@@ -1,9 +1,14 @@
 # Class 03 - 2024/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
 
----
+**Table of Content**
+- [Class 03 - 2024/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-03---20240427---batch-72---q1-certified-agentic-robotic-ai-engineer)
+  - [📘 Chapter 2: **Variables and Simple Data Types**](#-chapter-2-variables-and-simple-data-types)
+    - [Key Topics:](#key-topics)
+  - [📘 Chapter 3: **Introducing Lists**](#-chapter-3-introducing-lists)
+    - [Key Topics:](#key-topics-1)
 
-# 📘 Chapter 2: **Variables and Simple Data Types**
-(Source: )
+
+## 📘 Chapter 2: **Variables and Simple Data Types**
 
 ### Key Topics:
 - **What happens when you run a Python file**:  
@@ -48,10 +53,7 @@
     - "Simple is better than complex."
     - "Readability counts."
 
----
-
-# 📘 Chapter 3: **Introducing Lists**
-(Source: )
+## 📘 Chapter 3: **Introducing Lists**
 
 ### Key Topics:
 - **What is a List?**
