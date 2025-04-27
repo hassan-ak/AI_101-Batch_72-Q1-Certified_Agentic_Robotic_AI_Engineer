@@ -1,4 +1,4 @@
-# Python Crash Course Practice (Chapters 2 & 3)
+# Assignment 03: Python Crash Course Practice (Chapters 2 & 3)
 
 Welcome to the practice set for **Python Crash Course (3rd Edition)** by Eric Matthes!
 
