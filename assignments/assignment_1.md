@@ -1,0 +1,133 @@
+# Python Crash Course Practice (Chapters 2 & 3)
+
+Welcome to the practice set for **Python Crash Course (3rd Edition)** by Eric Matthes!
+
+This README contains **30 carefully crafted questions** based on:
+
+- **Chapter 2**: Variables and Simple Data Types
+- **Chapter 3**: Introducing Lists
+
+The focus is on **logic building** and **problem solving**, ranging from **basic** to **advanced** levels.
+
+---
+
+# 📚 Practice Questions
+
+## Chapter 2: Variables and Simple Data Types (15 Questions)
+
+### Basic
+
+1. Create a variable called `greeting` and store any message. Print it.
+2. Change the value of `greeting` to a new message. Print the updated message.
+3. Create two variables `first_name` and `last_name`. Combine them into a full name using an f-string.
+4. Print a quote along with the author's name using an f-string.
+5. Store a person's name with extra spaces. Strip the spaces before printing.
+
+### Intermediate
+
+6. Take a number, add 5, multiply by 2, subtract 3, and print the final result.
+7. Create two numbers `a` and `b` and print their sum, difference, product, and quotient.
+8. Find the square and cube of a number using the `**` operator.
+9. Print the sum of three floating-point numbers.
+10. Assign three variables `x, y, z` in a single line and print them.
+
+### Advanced
+
+11. Input your name, then print a personalized welcome message using correct formatting.
+12. Store a favorite quote and replace a word dynamically (e.g., change "failure" to "success").
+13. Create a number using underscores for readability and print it.
+14. Write a program to calculate `Area = length * width` and explain each step with comments.
+15. Import `this` and explain three Zen of Python principles in your own words.
+
+---
+
+## Chapter 3: Introducing Lists (15 Questions)
+
+### Basic
+
+16. Create a list of 5 favorite fruits and print each fruit separately.
+17. Modify the second item in the list and print the updated list.
+18. Append a new fruit and insert another at the beginning of the list.
+19. Demonstrate deleting an item using `del`, `pop()`, and `remove()`.
+20. Sort the list permanently with `sort()` and temporarily with `sorted()`. Print before and after each.
+
+### Intermediate
+
+21. Create a list of dream travel destinations:
+
+    - Sort alphabetically
+    - Reverse the order
+    - Find the total number of destinations
+
+22. Start with an empty guest list:
+
+    - Append three guests
+    - Insert a guest at the beginning
+    - Remove one guest with `pop()`
+    - Print the final invitation list
+
+23. Access the last three elements of a list without using negative indices.
+24. Print only the even numbers from a list.
+25. Print the squares of the first 10 natural numbers using a list.
+
+### Advanced
+
+26. Create a list with mixed data types (strings, integers, floats) and print only integers.
+27. Given a list of names, print a personalized welcome message for each person.
+28. Make a copy of a list. Modify the original and show that the copy remains unchanged.
+29. Take a list of city names and print the cities sorted by the length of their names.
+30. Write logic where if the list is empty, print "No items available", else print each item.
+
+---
+
+# 🎯 Bonus Challenge
+
+- Combine variables and lists:
+  - Ask the user for five favorite movies.
+  - Store them in a list.
+  - Print the sorted list alphabetically.
+
+---
+
+# 🚀 How to Submit
+
+## Instructions for Submission
+
+1. **Open Google Colab**: Visit [https://colab.research.google.com/](https://colab.research.google.com/) and sign in with your Google account.
+2. **Create a New Notebook**:
+
+   - Click on `File > New notebook`.
+   - Title your notebook: `Python_Crash_Course_Ch2_Ch3_Practice_YourName`
+
+3. **Solve Each Question**:
+
+   - Add a text cell for each question by copying the question statement.
+   - Add a code cell below the text cell to write your solution.
+   - Ensure that your code is properly **commented** and **well-organized**.
+
+4. **Save and Share**:
+
+   - After solving all questions, click `File > Save a copy in Drive`.
+   - Click `Share`.
+   - Under "General access", select **Anyone with the link** and set it to **Viewer** or **Editor**.
+   - Copy the shareable link.
+
+5. **Submit**:
+   - Submit the copied Google Colab link via the platform or form provided by your instructor/mentor.
+
+## Submission Guidelines
+
+- Ensure your code **runs without errors**.
+- Solutions should be **your own work**.
+- Focus on **clarity**, **correctness**, and **code formatting**.
+- Bonus points for **creative solutions** and **explanations**.
+
+Happy Coding! 💻✨
+
+---
+
+# 🚀 Final Tips
+
+- Solve first without searching.
+- Use comments generously to explain "why" you wrote a line.
+- Try additional modifications to each question to deepen your understanding.
