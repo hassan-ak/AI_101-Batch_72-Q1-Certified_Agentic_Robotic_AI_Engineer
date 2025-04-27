@@ -2,7 +2,7 @@
 
 Welcome to the practice set for **Python Crash Course (3rd Edition)** by Eric Matthes!
 
-This README contains **30 carefully crafted questions** based on:
+This README contains **20 carefully crafted questions** based on:
 
 - **Chapter 2**: Variables and Simple Data Types
 - **Chapter 3**: Introducing Lists
@@ -65,52 +65,36 @@ Here’s a thoughtful breakdown:
 9. Print the sum of three floating-point numbers.
 10. Assign three variables `x, y, z` in a single line and print them.
 
-### Advanced
-
-11. Input your name, then print a personalized welcome message using correct formatting.
-12. Store a favorite quote and replace a word dynamically (e.g., change "failure" to "success").
-13. Create a number using underscores for readability and print it.
-14. Write a program to calculate `Area = length * width` and explain each step with comments.
-15. Import `this` and explain three Zen of Python principles in your own words.
-
 ---
 
 ## Chapter 3: Introducing Lists (15 Questions)
 
 ### Basic
 
-16. Create a list of 5 favorite fruits and print each fruit separately.
-17. Modify the second item in the list and print the updated list.
-18. Append a new fruit and insert another at the beginning of the list.
-19. Demonstrate deleting an item using `del`, `pop()`, and `remove()`.
-20. Sort the list permanently with `sort()` and temporarily with `sorted()`. Print before and after each.
+11. Create a list of 5 favorite fruits and print each fruit separately.
+12. Modify the second item in the list and print the updated list.
+13. Append a new fruit and insert another at the beginning of the list.
+14. Demonstrate deleting an item using `del`, `pop()`, and `remove()`.
+15. Sort the list permanently with `sort()` and temporarily with `sorted()`. Print before and after each.
 
 ### Intermediate
 
-21. Create a list of dream travel destinations:
+16. Create a list of dream travel destinations:
 
     - Sort alphabetically
     - Reverse the order
     - Find the total number of destinations
 
-22. Start with an empty guest list:
+17. Start with an empty guest list:
 
     - Append three guests
     - Insert a guest at the beginning
     - Remove one guest with `pop()`
     - Print the final invitation list
 
-23. Access the last three elements of a list without using negative indices.
-24. Print only the even numbers from a list.
-25. Print the squares of the first 10 natural numbers using a list.
-
-### Advanced
-
-26. Create a list with mixed data types (strings, integers, floats) and print only integers.
-27. Given a list of names, print a personalized welcome message for each person.
-28. Make a copy of a list. Modify the original and show that the copy remains unchanged.
-29. Take a list of city names and print the cities sorted by the length of their names.
-30. Write logic where if the list is empty, print "No items available", else print each item.
+18. Access the last three elements of a list without using negative indices.
+19. Print only the even numbers from a list.
+20. Print the squares of the first 10 natural numbers using a list.
 
 ---
 
