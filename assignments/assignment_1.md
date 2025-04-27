@@ -8,6 +8,40 @@ This README contains **30 carefully crafted questions** based on:
 - **Chapter 3**: Introducing Lists
 
 The focus is on **logic building** and **problem solving**, ranging from **basic** to **advanced** levels.
+Absolutely — we can **estimate a realistic time** based on the type of questions and beginner speed.
+
+Here’s a thoughtful breakdown:
+
+| **Section**                         | **Estimated Time** per Question | **Total Time** | **Notes** |
+|:-------------------------------------|:-------------------------------|:-------------|:---------|
+| Basic (15 questions)                | 5–10 minutes each              | 1.5–2.5 hours | Simple print statements, variables, list basics |
+| Intermediate (10 questions)          | 10–15 minutes each             | 1.5–2.5 hours | Small logic like loops, sorting, input, math |
+| Advanced (5 questions)               | 15–25 minutes each             | 1.5–2 hours  | Requires thinking, filtering, edge cases |
+| Bonus Challenge (Optional)           | 20–30 minutes                  | 0.5 hour    | If attempted |
+
+---
+
+# 📋 **Overall Estimate for a Beginner:**
+
+| **Task**                       | **Time**       |
+|:-------------------------------|:--------------|
+| Solving all 30 main questions   | 4.5–7 hours    |
+| Bonus Challenge (optional)      | +0.5 hour      |
+| **Total Estimated Time**        | **5–7.5 hours** |
+
+---
+
+# 📢 Important Notes:
+- **If working in one sitting**: Suggest **two sessions** of **3–4 hours each** (with breaks).
+- **If spread over days**: 2–3 days with daily **2–2.5 hours** would be ideal for beginners.
+- **Extra Time**: Always add **30 minutes extra** for setting up Google Colab, reading instructions, and fixing small mistakes.
+
+---
+
+# 🎯 Suggested Instructions (for your assignment note):
+> ⏰ Estimated Completion Time for Beginners: **5 to 7.5 hours**  
+> 💡 Recommendation: Break it into **2 sessions** or **spread over 2–3 days** to maximize learning.  
+> 📚 Focus on **understanding concepts**, not rushing through.
 
 ---
 
