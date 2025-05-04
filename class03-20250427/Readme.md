@@ -1,7 +1,7 @@
-# Class 03 - 2024/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
+# Class 03 - 2025/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
 
 **Table of Content**
-- [Class 03 - 2024/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-03---20240427---batch-72---q1-certified-agentic-robotic-ai-engineer)
+- [Class 03 - 2025/04/27 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-03---20250427---batch-72---q1-certified-agentic-robotic-ai-engineer)
   - [📘 Chapter 2: **Variables and Simple Data Types**](#-chapter-2-variables-and-simple-data-types)
     - [Key Topics:](#key-topics)
   - [📘 Chapter 3: **Introducing Lists**](#-chapter-3-introducing-lists)

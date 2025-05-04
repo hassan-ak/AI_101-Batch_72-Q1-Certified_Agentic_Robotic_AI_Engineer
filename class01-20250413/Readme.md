@@ -1,10 +1,10 @@
-# Class 01 - 2024/04/13 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
+# Class 01 - 2025/04/13 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
 
 1. https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing
 2. https://docs.google.com/presentation/d/1VNFGsCYMDT1VTe8W1wxFbmAwYsJ1I0Y-6CnTvuCEn98/edit
 
 **Table of Content**
-- [Class 01 - 2024/04/13 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-01---20240413---batch-72---q1-certified-agentic-robotic-ai-engineer)
+- [Class 01 - 2025/04/13 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-01---20250413---batch-72---q1-certified-agentic-robotic-ai-engineer)
   - [Three waves of AI](#three-waves-of-ai)
     - [Predictive AI](#predictive-ai)
       - [🔍 How it works:](#-how-it-works)

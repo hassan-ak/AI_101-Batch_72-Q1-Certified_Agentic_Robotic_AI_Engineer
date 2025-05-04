@@ -1,8 +1,8 @@
-# Class 02 - 2024/04/20 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
+# Class 02 - 2025/04/20 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)
 
 **Table of Content**
 
-- [Class 02 - 2024/04/20 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-02---20240420---batch-72---q1-certified-agentic-robotic-ai-engineer)
+- [Class 02 - 2025/04/20 - Batch 72 - Q1 (Certified Agentic Robotic AI Engineer)](#class-02---20250420---batch-72---q1-certified-agentic-robotic-ai-engineer)
   - [Discussion Points](#discussion-points)
   - [Installations](#installations)
 
