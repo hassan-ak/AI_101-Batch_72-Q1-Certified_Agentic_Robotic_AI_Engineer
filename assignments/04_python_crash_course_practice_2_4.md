@@ -1,4 +1,4 @@
-# 🐍 Python Crash Course: Assignment (Chapters 2–4)
+# Assignment 04: Python Crash Course Practice (Chapters 2 - 4)
 
 > 📘 Based on *Python Crash Course* by Eric Matthes (Chapters 2 to 4)
 
