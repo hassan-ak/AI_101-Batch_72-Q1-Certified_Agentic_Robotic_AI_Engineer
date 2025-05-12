@@ -97,7 +97,15 @@ Please follow these instructions carefully to submit your assignment:
 
 3. 📝 **Use Meaningful Inputs**
    When prompted for input (e.g., name, movie, numbers), use realistic and clear values.
-   
+
+4. 🚫 **Avoid Advanced Topics**
+   Do **not** use:
+
+   * `if`, `else`, or any conditional logic
+   * `while` loops
+   * Functions or libraries not taught yet
+
+   Only use the topics covered in Chapters 1–4:
 
 5. 📁 **Save and Share Google Colab Link**
 6. 📩 **Submit to Google Classroom**
